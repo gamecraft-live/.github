@@ -1,12 +1,2 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Hexyn eSports Platform! ⚡️
+- Welcome to the Hexyn eSports Platform, where the future of competitive gaming begins! Our platform is dedicated to providing the ultimate gaming experience for players, teams, and fans. Whether you're an aspiring pro gamer, a team manager, or just a passionate eSports enthusiast, Hexyn has something exciting in store for you. Stay tuned, we're on the way!
